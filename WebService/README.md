@@ -23,7 +23,10 @@
 ## Overview
 
 
-The web service [schedule_service.py](https://github.com/DoodleScheduling/devops-gabriel-mateescu/blob/master/WebService/schedule_service.py) is a Python 2.6+ application that provides a REST API as follows:
+The web service [schedule_service.py](
+https://github.com/gmateesc/WebServiceFlask/blob/master/WebService/schedule_service.py
+
+) is a Python 2.6+ application that provides a REST API as follows:
 
 - the first endpoint /schedule/api/v1/events accepts POST requests with a JSON payload with the format shown below and writes these documents to disk:
 ```json
@@ -49,7 +52,7 @@ The web service [schedule_service.py](https://github.com/DoodleScheduling/devops
 
 The layout is shown below:
 <p>
-<img src="https://github.com/DoodleScheduling/devops-gabriel-mateescu/blob/master/doc/app_layout.png" 
+<img src="https://github.com/gmateesc/WebServiceFlask/blob/master/doc/app_layout.png" 
   alt="App layout" width="400">
 
 <p>
