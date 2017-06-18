@@ -1,4 +1,4 @@
-'
+
 # Web service built with the Flask framework
 
 
